@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.greeting-section {
+text-align: center;
+background-color: #C6E7F6;
+font-family: "Tahoma", "Geneva", sans-serif;;
+border-style: double;
+}
+.footer {
+  background-color: #C6E7F6;
+  text-align: center;;
+  font-family: "merriweather sans-serif", "Geneva", sans-serif; color: navy;;
+}
+.introduction-section {
+  text-align: center;
+  background-color: #EEEEFF;
+  border-style: groove;
+  border-color: silver;
+
+}
+.introh2 {
+  font-family: "Tahoma", "Geneva", sans-serif; color: navy;;
+  margin-top: 30px;
+}
+.introh3 {
+  font-family: "merriweather sans-serif", "Geneva", sans-serif;;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.h2greet {
+  font-family: "Tahoma", "Geneva", sans-serif; color: navy;;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.name {
+  padding-bottom: 30px;
+}
+.legend {
+  padding-top: 50px;
+  font-weight: bold;
+}
+.copyright {
+  padding-bottom: 3px;
+  padding-top: 3px;
+  font-style: italic;
+}
+.contactinfo address {
+  font-style: normal;
+}
+.portfolio {
+  padding-top: 25px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: #cdf4ff;
+  border-style: double;
+  font-family: "Tahoma", "Geneva", sans-serif; color: navy;
+  font-style: italic;
+}
+.porth1 {
+  font-style: normal;
+  padding-bottom: 30px;
+}
+.porth2 {
+  padding-bottom: 20px;
+}
+.imglft {
+  padding-right: 20px;
+}
+.imgrt {
+  padding-left: 20px;
+}
