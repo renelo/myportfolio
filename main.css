@@ -2,6 +2,20 @@
   margin: 0;
   padding: 0;
 }
+.legend {
+  text-align: center;
+font-size: 40px;
+  font-weight: bold;
+  background-color: #eeeeff;
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-style: groove;
+  border-width: 8px;
+  border-color: aqua;
+  margin-left: 410px;
+  margin-right: 410px;
+  margin-top: 30px;
+}
 
 .greeting-section {
 text-align: center;
@@ -24,6 +38,7 @@ border-style: double;
 .introh2 {
   font-family: "Tahoma", "Geneva", sans-serif; color: navy;;
   margin-top: 30px;
+  text-decoration: underline;
 }
 .introh3 {
   font-family: "merriweather sans-serif", "Geneva", sans-serif;;
@@ -38,10 +53,7 @@ border-style: double;
 .name {
   padding-bottom: 30px;
 }
-.legend {
-  padding-top: 50px;
-  font-weight: bold;
-}
+
 .copyright {
   padding-bottom: 3px;
   padding-top: 3px;
@@ -59,9 +71,21 @@ border-style: double;
   font-family: "Tahoma", "Geneva", sans-serif; color: navy;
   font-style: italic;
 }
+.portfolio img{
+  width: 251px;
+  height: 165px;
+}
 .porth1 {
   font-style: normal;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-style: groove;
+  border-width: 8px;
+  border-color: aqua;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 20px;
+  background-color: #eeeeff;
 }
 .porth2 {
   padding-bottom: 20px;
@@ -71,4 +95,9 @@ border-style: double;
 }
 .imgrt {
   padding-left: 20px;
+}
+@@media (max-width: 400px) {
+h2 {
+  background-color: yellow;
+}
 }
