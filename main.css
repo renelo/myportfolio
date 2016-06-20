@@ -96,7 +96,7 @@ border-style: double;
 .imgrt {
   padding-left: 20px;
 }
-@@media (max-width: 400px) {
+@media screen and (max-width: 400px) {
 h2 {
   background-color: yellow;
 }
